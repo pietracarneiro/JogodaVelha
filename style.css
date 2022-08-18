@@ -27,6 +27,7 @@ h3 {
 
 .container {
     margin: 0 auto;
+    margin-top: 10%;
     max-width: 240px;
     display: grid;
     padding: 25px;
